@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
-  author:       ""      # Your name
+  wokwi_id:     54858054593504257       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "Class 19 ECSE"      # Project title
+  author:       "James F"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "LED switch project, with switch and LED output."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -21,12 +21,12 @@ pinout:
   ui[2]: ""
   ui[3]: ""
   ui[4]: ""
-  ui[5]: ""
-  ui[6]: ""
+  ui[5]: "A"
+  ui[6]: "B"
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
+  uo[0]: "A AND B"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
