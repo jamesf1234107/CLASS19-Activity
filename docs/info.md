@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+There is are two switches connected to the inputs A and B that feed into an LED, so that
+if both switches are on, then the LED will 
+light up.
 ## How to test
 
-Explain how to use your project
-
+Turn both switches connected to A and B on, and the LED should light up. Turn one or more of the switches connected to A and B off and
+the LED should turn off.
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+An LED. 
